@@ -1,0 +1,8 @@
+{
+  "name": "ZukkoMaktab - Bolalar va O'quvchilar Ta'lim Platformasi",
+  "description": "1-11 sinf o'quvchilari uchun interaktiv darslar, bilimli o'yinlar, testlar va qiziqarli tanga (coin) yig'ish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
